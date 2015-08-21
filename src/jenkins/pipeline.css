@@ -1,0 +1,11 @@
+@media (min-width: 1170px) {
+
+    #main-panel {
+        margin-left: 10px;
+    }
+}
+
+#main-panel {
+    padding: 15px 15px 80px 15px;
+    margin-left: 10px;
+}
